@@ -221,6 +221,7 @@ void dequeue() {
 ```
 
 Output:
+
 <img width="845" height="693" alt="image" src="https://github.com/user-attachments/assets/680181fd-0ea2-45b0-a68f-1c947745f5cc" />
 
 
